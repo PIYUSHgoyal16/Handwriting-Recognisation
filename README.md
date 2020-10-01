@@ -1,4 +1,4 @@
 # Handwriting-Recognisation
 Optimise Handwritten Script Recognisation
 
-Contributors: Aditya Malvi
+Contributors: Piyush Goyal, Aditya Malvi
