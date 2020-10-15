@@ -10,3 +10,4 @@ print("The input number is:", a)
 b = int(input())
 print("The next number is:", b)
 
+print("The largest of the two numbers is:", max(a,b))
